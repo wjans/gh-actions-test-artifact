@@ -19,8 +19,8 @@
 	</properties>
 
 	 <scm>
-        <connection>scm:git:git@github.com:wjans/gh-actions-test-artifact.git</connection>
-        <developerConnection>scm:git:git@github.com:wjans/gh-actions-test-artifact.git</developerConnection>
+        <connection>scm:git:https://github.com/wjans/gh-actions-test-artifact</connection>
+        <developerConnection>scm:git:https://github.com/wjans/gh-actions-test-artifact</developerConnection>
         <url>https://github.com/wjans/gh-actions-test-artifact/tree/master</url>
         <tag>HEAD</tag>
     </scm>
